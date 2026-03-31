@@ -1,0 +1,1 @@
+To run the games, open the .bat file
